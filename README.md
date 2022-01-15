@@ -3,7 +3,7 @@ reading of the new coronavirus data in the United States
 
 ## Background
 
-Through reading of the new coronavirus data in the United States, the numpy library, pandas library the data analysis and visualization of vaccination data in different parts of the United States on the map, through the different shades of color, more intuitively see the situation of the epidemic in different regions
+Through reading of the new coronavirus data in the United States, the numpy library, pandas library the data analysis and visualization of vaccination rate (at lease one shot and fully vaccinated) in different states of the United States on the map and different counties in New York and California, through the different shades of color, more intuitively see the situation of the vaccination in different regions
 
 ## Requirements
 numpy
