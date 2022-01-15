@@ -11,7 +11,7 @@ numpy
 pandas
 
 ## Methods Used
-Data Visualization 
+Data Visualization, Geographic Data With Basemap 
 
 Data Analysis
 
